@@ -1,2 +1,2 @@
 
-echo "Quality Gate Check : "
+echo "Quality Gate Check : `date`"
